@@ -10,7 +10,7 @@ import type { SocialMediaProps } from "../models/socialmediaprops.model"
 export const Footer = () => {
   return (
     <footer className="pt-65 pb-40 px-6">
-        <img className="mb-10" src="/images/logo.svg" alt="logo" />
+        <img className="mb-10" src="./images/logo.svg" alt="logo" />
 
         <div className="xl:flex xl:gap-24">
           {/* ContactInfo */}
